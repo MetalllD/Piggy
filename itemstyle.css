@@ -1,0 +1,15 @@
+.items{
+    text-align:center;
+    justify-content: center;
+    background-color: #90D7FF;
+    display: flex;
+    flex-wrap : wrap;
+    padding: 10%;
+  }
+  
+  .items div{
+    height: 100px;
+    width: 100px;
+    background-color: #5DFDCB;
+    margin: 10px;
+  }
